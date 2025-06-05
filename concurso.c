@@ -29,12 +29,6 @@ int main() {
 
     notaCorte = notas [minAprovados-1];
 
-    
-    // for (int i = 0; i < nParticipantes; i++)
-    // {
-    //     printf("%d", notas[i]);
-    // }
-
     printf("%d", notaCorte);
 
     return 0;
